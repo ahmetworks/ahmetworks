@@ -23,7 +23,7 @@
 <a href="https://probot.io" target="blank"><img align="center" src="logo1.jpg" alt="754638750012670062" height="30" width="40" /></a>
 <h3 align="left"></h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">İnstagram:</h3>
 <p align="left">
 <a href="https://instagram.com/sidswpe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sidswpe" height="30" width="40" /></a>
 </p>
