@@ -9,6 +9,11 @@
 
 <a href="https://discord.com/users/595840152568594442/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="754638750012670062" height="30" width="40" /></a>
 
+   <h3 align="left">My Spotify Artist Acc:</h3>
+
+<p align="left">
+
+<a href="https://sptfy.com/sideswipe/" target="blank"><img align="center" src="spotify.png" alt="754638750012670062" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Probot:</h3>
@@ -16,7 +21,11 @@
 <p align="left">
 
 <a href="https://probot.io" target="blank"><img align="center" src="logo1.jpg" alt="754638750012670062" height="30" width="40" /></a>
+<h3 align="left">İnstagram:</h3>
 
+<p align="left">
+
+<a href="https://instagram.com/sidswpe" target="blank"><img align="center" src="ig.png" alt="754638750012670062" height="30" width="40" /></a>
 </p>
 <h2></h2>  <p align="center"
 </p
