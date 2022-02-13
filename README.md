@@ -1,5 +1,12 @@
 <h2 align="left">Selam, ben Sideswipe!</h2>
-   <p align="left">Merhaba, benim adım Ahmet.Grafik tasarım ile ilgileniyorum.Aynı zamanda kendi çapımda beatler yapıyor,Spotify hesabımda yayınlıyorum.3 Yıldır Discord kullanıyorum.Discord üzerinde bulunan,şu an 5 milyon sunucuya hizmet veren ProBot Türk destek takımında görevliyim.Yine Discord üzerinde bulunan Hakkı Alkan Discord sunucusunda moderatör olarak görev yapmaktayım.Aynı zamanda Discord'un ilk gif sunucusu olan Gifland'da da moderatör olarak görev yapmaktayım.</p>
+   <p align="left">Merhaba, benim adım Ahmet.Ankara'da yaşıyorum.Öğrenciyim.Az da olsa grafik tasarım ile uğraşıyorum.Aynı zamanda kendi çapımda beatler yapıyor,Spotify hesabımda yayınlıyorum.Teknolojiye,tasarıma ve müziğe karşı duyduğum büyük bir ilgim var.3 Yıldır Discord kullanıyorum.
+  <h2 align="left">Discord Üzerinde Yönettiğim/Görev Yaptığım Topluluklar</h2>
+ 🎵 Musicord : Discord'da müzik severleri bir arada tutmak için kurduğum Musicord topluluğunu yönetmekteyim.Sesli etkinlikler,konserler,çekilişler ve daha fazlası için sunucuma gelebilirsin.
+ 
+
+🤖 ProBot : Discord üzerinde hizmet veren,şu an 5 milyon sunucuya hizmet veren ProBot Türk destek takımında görevliyim.Herhangi bir sorun yaşadığınız zaman destek sunucumuza gelip çekinmeden yazabilirsin.
+ 
+ 💻 Hakkı Alkan : Yine Discord üzerinde bulunan,ShiftDelete.net teknoloji haber platformunun kurucusu Hakkı Alkan'ın Discord sunucusunda moderatör olarak görev yapmaktayım.</p>
 <img src="https://komarev.com/ghpvc/?username=ezrealdev-js&label=Profil%20Ansichten&color=5b9dbc&style=flat"
   <div align="center">
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=lfcb8fmv080gi4qhpg5qg7mqe&cover_image=true&theme=default&bar_color=000000)](https://github.com/kittinan/spotify-github-profile"<div align="center">
