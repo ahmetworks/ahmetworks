@@ -9,11 +9,11 @@
  💻 Hakkı Alkan : Yine Discord üzerinde bulunan,ShiftDelete.net teknoloji haber platformunun kurucusu Hakkı Alkan'ın Discord sunucusunda moderatör olarak görev yapmaktayım.</p>
   <div align="center">
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=lfcb8fmv080gi4qhpg5qg7mqe&cover_image=true&theme=default&bar_color=000000)](https://github.com/kittinan/spotify-github-profile"<div align="center">
- <h3 align="left">Discord:</h3>
+ <h3 align="left">Musicord Discord:</h3>
 
 <p align="left">
 
-<a href="https://discord.com/users/595840152568594442/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="754638750012670062" height="30" width="40" /></a>
+<a href="https://discord.gg/musicord" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="754638750012670062" height="30" width="40" /></a>
 
    <h3 align="left">My Spotify Artist Acc:</h3>
 
@@ -26,10 +26,10 @@
 
 <p align="left">
 
-<a href="https://probot.io" target="blank"><img align="center" src="logo1.jpg" alt="754638750012670062" height="30" width="40" /></a>
+<a href="https://probot.io" target="blank"><img align="center" src="download.ico" alt="754638750012670062" height="30" width="40" /></a>
 <h3 align="left"></h3>
 
-<h3 align="left">İnstagram:</h3>
-<p align="left">
+   <h3 align="left">İnstagram:</h3>
 <a href="https://instagram.com/sidswpe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sidswpe" height="30" width="40" /></a>
 </p>
+
