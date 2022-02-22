@@ -4,7 +4,7 @@
  🎵 Musicord : Discord'da müzik severleri bir arada tutmak için kurduğum Musicord topluluğunu yönetmekteyim.Sesli etkinlikler,konserler,çekilişler ve daha fazlası için sunucuma gelebilirsin.
  
 
-🤖 ProBot : Discord üzerinde hizmet veren,şu an 5 milyon sunucuya hizmet veren ProBot Türk destek takımında görevliyim.Herhangi bir sorun yaşadığınız zaman destek sunucumuza gelip çekinmeden yazabilirsin.
+🤖 ProBot : Discord üzerinde şu an 5 milyon sunucuya hizmet veren ProBot Türk destek takımında görevliyim.Herhangi bir sorun yaşadığınız zaman destek sunucumuza gelip çekinmeden yazabilirsin.
  
  💻 Hakkı Alkan : Yine Discord üzerinde bulunan,ShiftDelete.net teknoloji haber platformunun kurucusu Hakkı Alkan'ın Discord sunucusunda moderatör olarak görev yapmaktayım.</p>
   <div align="center">
