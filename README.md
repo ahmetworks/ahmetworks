@@ -9,27 +9,11 @@
  💻 Hakkı Alkan : Yine Discord üzerinde bulunan,ShiftDelete.net teknoloji haber platformunun kurucusu Hakkı Alkan'ın Discord sunucusunda moderatör olarak görev yapmaktayım.</p>
   <div align="center">
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=lfcb8fmv080gi4qhpg5qg7mqe&cover_image=true&theme=default&bar_color=000000)](https://github.com/kittinan/spotify-github-profile"<div align="center">
- <h3 align="left">Musicord Discord:</h3>
+ 
+   
+[![instagram](https://cdn1.iconfinder.com/data/icons/apps-8/64/instagram-ig-apps-platform-24.png)](https://instagram.com/sideswpe) [![twitter](https://cdn1.iconfinder.com/data/icons/apps-8/64/twitter-apps-platform-24.png)](https://twitter.com/sideswpe) [![youtube](https://cdn1.iconfinder.com/data/icons/apps-8/64/youtube-apps-platform-24.png)](https://www.youtube.com/https://youtube.com/channel/UC1byh2pO8cy_wT9q2j0Xavw) [![discord](https://cdn1.iconfinder.com/data/icons/apps-8/64/discord-apps-platform-24.png)](https://discord.com/user/595840152568594442) [![twitch](https://cdn1.iconfinder.com/data/icons/apps-8/64/twitch-apps-platform-24.png)](https://www.twitch.tv/sideswpe)
 
-<p align="left">
 
-<a href="https://discord.gg/musicord" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="754638750012670062" height="30" width="40" /></a>
 
-   <h3 align="left">My Spotify Artist Acc:</h3>
-
-<p align="left">
-
-<a href="https://sptfy.com/sideswipe/" target="blank"><img align="center" src="spotify.png" alt="754638750012670062" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Probot:</h3>
-
-<p align="left">
-
-<a href="https://probot.io" target="blank"><img align="center" src="download.ico" alt="754638750012670062" height="30" width="40" /></a>
-<h3 align="left"></h3>
-
-   <h3 align="left">İnstagram:</h3>
-<a href="https://instagram.com/sidswpe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sidswpe" height="30" width="40" /></a>
-</p>
-
+<div align="center"><!-- <div>  <p align="center">   Contact links:     <a href="" target="_blank"><img src="" width="30px" heigth= "30px" /></a>    <a href="" target="_blank"><img src="" width="30px" heigth= "30px" /></a>    <a href="" target="_blank"><img src="" width="30px" heigth= "30px" /></a>    <a href="" target="_blank"><img src="" width="30px" heigth= "30px" /></a>    <a href="https://www.reddit.com/user/sideswpe"
+src="https://cdn1.iconfinder.com/data/icons/apps-8/64/stack-overflow-stackoverflow-apps-platform-512.png" width="30px" heigth= "30px" /></a>    <a href="https://https://open.spotify.com/user/lfcb8fmv080gi4qhpg5qg7mqe?si=BUzrSb1rT5a5FyF1YwTpzg&utm_source=copy-link" target="_blank"><img src="https://cdn1.iconfinder.com/data/icons/apps-8/64/spotify-apps-platform-512.png" width="30px" heigth= "30px" /></a>    <a href="" target="_blank"><img src="" width="30px" heigth= "30px" /></a></div>  <img src="https://spotify-github-profile.vercel.app/api/view?uid=bsa431plyu8hiphpc0ggbsa25&cover_image=true&theme=default" />  --></div>
