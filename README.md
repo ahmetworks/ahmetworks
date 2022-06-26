@@ -4,9 +4,7 @@
 
 🤖 ProBot : Discord üzerinde şu an 5 milyon sunucuya hizmet veren ProBot Türk destek takımında görevliyim.Herhangi bir sorun yaşadığınız zaman destek sunucumuza gelip çekinmeden yazabilirsin.
  
- 💻 Hakkı Alkan : Yine Discord üzerinde bulunan,ShiftDelete.net teknoloji haber platformunun kurucusu Hakkı Alkan'ın Discord sunucusunda moderatör olarak görev yapmaktayım.</p>
-  <div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=lfcb8fmv080gi4qhpg5qg7mqe&cover_image=true&theme=default&bar_color=000000)](https://github.com/kittinan/spotify-github-profile"<div align="center">
+https://spotify-github-profile.vercel.app/api/view?uid=lfcb8fmv080gi4qhpg5qg7mqe&cover_image=true&theme=default&bar_color=000000)](https://github.com/kittinan/spotify-github-profile"<div align="center">
  
    
 [![instagram](https://cdn1.iconfinder.com/data/icons/apps-8/64/instagram-ig-apps-platform-24.png)](https://instagram.com/sideswpe) [![twitter](https://cdn1.iconfinder.com/data/icons/apps-8/64/twitter-apps-platform-24.png)](https://twitter.com/sideswpe) [![youtube](https://cdn1.iconfinder.com/data/icons/apps-8/64/youtube-apps-platform-24.png)](https://www.youtube.com/https://youtube.com/channel/UC1byh2pO8cy_wT9q2j0Xavw) [![discord](https://cdn1.iconfinder.com/data/icons/apps-8/64/discord-apps-platform-24.png)](https://discord.com/users/595840152568594442) [![twitch](https://cdn1.iconfinder.com/data/icons/apps-8/64/twitch-apps-platform-24.png)](https://www.twitch.tv/sideswpe)
